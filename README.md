@@ -38,7 +38,6 @@ I build elegant and responsive UIs using modern tools and frameworks.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdriadali&" alt="mdriadali" /></p>
 
-Would you like me to create a **portfolio website** using React + Tailwind based on this? I can generate the full structure for you.
 
 
 
