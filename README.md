@@ -39,4 +39,3 @@ I build elegant and responsive UIs using modern tools and frameworks.
 
 ---
 
-## 🎬 Live JS Animation
