@@ -1,7 +1,7 @@
 <!-- Gradient Banner (Use real image in GitHub Pages) -->
 <h1 align="center">
   🌟 Md Riad Ali 🌟<br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;I+love+React%2C+Tailwind+%26+JS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;I+love+React%2C+Tailwind+%26+JS" alt="Typing SVG" />
 </h1>
 
 ---
