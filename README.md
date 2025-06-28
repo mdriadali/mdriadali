@@ -15,42 +15,6 @@ I build elegant and responsive UIs using modern tools and frameworks.
 - ⚡ Fast, interactive, and accessible websites  
 - 🚀 Always learning, always building
 
----
-
-## 🚀 My Skill Report
-
-| Skill        | Proficiency |
-|--------------|-------------|
-| 🌐 HTML       | ██████████ 95% |
-| 🎨 CSS        | █████████ 90% |
-| 🎯 Tailwind   | █████████ 85% |
-| 💡 JavaScript | ████████ 80% |
-| ⚛️ React      | ███████▎ 75% |
-
----
-
-## 🧠 Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-
-### ✅ You Still Need to:
-
-- Replace `your_instagram_username` with your real Instagram username
-- Replace `your_linkedin_username` with your actual LinkedIn profile ID
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Md Riad Ali</h1>
-<h3 align="center">A passionate frontend developer from BAngladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdriadali&label=Profile%20views&color=0e75b6&style=flat" alt="mdriadali" /> </p>
 
