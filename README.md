@@ -34,7 +34,7 @@ I build elegant and responsive UIs using modern tools and frameworks.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdriadali&show_icons=true&locale=en&layout=compact" alt="mdriadali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdriadali&show_icons=true&locale=en" alt="mdriadali" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdriadali&" alt="mdriadali" /></p>
 
