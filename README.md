@@ -39,3 +39,57 @@ I build elegant and responsive UIs using modern tools and frameworks.
 
 ---
 
+
+
+
+
+
+
+
+
+<!-- Gradient Banner (Typing Animation with JS effect) -->
+<h1 align="center">
+  🌟 Md Riad Ali 🌟<br/>
+</h1>
+
+<p align="center">
+  <b><i>🧠 Frontend Developer | JavaScript Lover | React Enthusiast</i></b><br/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=500&lines=I+am+Md+Riad+Ali;Frontend+Web+Developer;Specialized+in+React+and+Tailwind;I+love+creating+cool+UI+🌈" alt="Typing SVG" />
+</p>
+
+---
+
+## 🎬 Live Typing Animation with JavaScript
+
+> 🧩 **Try this code in your HTML file for a simple 1-second typing effect!**
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Typing Animation</title>
+</head>
+<body style="font-family: Arial; font-size: 24px;">
+  <p id="text"></p>
+
+  <script>
+    const text = "Hello, I'm Md Riad Ali 👋";
+    let i = 0;
+
+    function animate() {
+      if (i < text.length) {
+        document.getElementById("text").innerHTML += text.charAt(i);
+        i++;
+        setTimeout(animate, 1000); // 1 second per character
+      }
+    }
+
+    animate();
+  </script>
+</body>
+</html>
+
