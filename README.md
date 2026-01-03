@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">
-  Hi 👋, I'm Riad Ali
+  Assalamualaikum and welcome! I'm Riad Ali
 </h1>
 
 <h3 align="center">
@@ -14,6 +14,8 @@
 ---
 
 ## 🧠 About Me
+
+
 
 - 💻 Full Stack **MERN Developer**
 - ⚡ Strong in **Frontend + Backend + Database**
