@@ -1,8 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">
-  Assalamualaikum and welcome! I'm Riad Ali
-</h1>
-
+  Assalamualaikum and Welcome
+ 
 <h3 align="center">
   🚀 Full Stack MERN Developer | Next.js | Scalable Web Apps
 </h3>
