@@ -82,7 +82,7 @@
 ---
 
 ## 📫 Connect With Me
-
+- <a href="[https://www.w3schools.com](https://drive.google.com/file/d/15EMvWwOD_70XQekru9kgIGi0PVpr_Pt5/view?usp=sharing)">Resume</a>
 - 💼 Portfolio: **Coming Soon**
 - 📧 Email: **mdriadali.official@gmail.com**
 - 🌐 Website: **Coming Soon**
